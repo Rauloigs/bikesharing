@@ -56,7 +56,7 @@ The extra in comparisson with the past 2 graphics is that here we can see the be
 
 This Pie Chart can also help to complement the info in the first stories, because now we know from those men, from those women how many are involved. 
 
-### Number of trips
+### 7. Number of trips
 
 <img width="112" alt="Number_Trips" src="https://user-images.githubusercontent.com/84519822/161401952-bdf83a1c-fec9-4357-a35c-36ac59c6cd53.png">
 
@@ -66,10 +66,10 @@ So, how many trips where there in August?
 
 ## Summary:
 
-I would suggest to additional visualiztions: 
+I belive this information will provide the investor with clear information of how demanding or important to a city inhabitants might be a bycicle provider company. The viz are clear but I would suggest additional visualiztions to provide the investors with other important variant, the money, so I recommend two more vizualizations: 
 
 1. **Suscribers vs Customers Revenue**: How much revenue does each type of users represents within a month. 
-2. 
+2. **Repairings per Month**: It will be interesting to have the data, work with it and display on how many repairs are the per month and how much do these cost to the company.
 
 
 If you want to see all the visualizations above in detail [click here](https://public.tableau.com/app/profile/ra.l.galv.n/viz/CHALLENGE14_16488597938470/Historia1)
